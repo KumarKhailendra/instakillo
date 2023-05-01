@@ -1,7 +1,7 @@
 # MERN Stack - Build a social media app 
 > MERN Stack Build  a social media app (instagram clone) with MERN  + Redux  + Bootstrap 4
 
-## Demo: https://insta-kilo.herokuapp.com/
+## Demo: https://instakilo.onrender.com/
 
 ## Author: Khailendra Prasad
 
